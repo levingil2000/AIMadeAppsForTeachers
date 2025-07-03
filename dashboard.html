@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade Analysis Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #e9e9e9;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .recommendation-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Grade Analysis Dashboard</h1>
+
+        <div class="section">
+            <h2>Overall Competency Performance</h2>
+            <div id="competencyChart"></div>
+        </div>
+
+        <div class="section">
+            <h2>Students Needing Remediation</h2>
+            <table id="failingStudentsTable">
+                <thead>
+                    <tr>
+                        <th>Student Name</th>
+                        <th>Failed Assessment</th>
+                        <th>Score</th>
+                        <th>Learning Competency</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Class Recommendations</h2>
+            <ul id="classRecommendationsList">
+                <!-- Data will be inserted here by JavaScript -->
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const jsonFileName = "grade_analysis_data.json";
+
+        fetch(jsonFileName)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Render Competency Chart
+                const competencyNames = Object.keys(data.competency_performance);
+                const passRates = Object.values(data.competency_performance);
+
+                const chartData = [{
+                    x: competencyNames,
+                    y: passRates,
+                    type: 'bar',
+                    marker: {
+                        color: passRates.map(rate => rate < 60 ? 'red' : (rate < 75 ? 'orange' : 'green'))
+                    }
+                }];
+
+                const layout = {
+                    title: 'Pass Rate by Learning Competency',
+                    xaxis: { title: 'Learning Competency' },
+                    yaxis: { title: 'Pass Rate (%)', range: [0, 100] }
+                };
+
+                Plotly.newPlot('competencyChart', chartData, layout);
+
+                // Populate Failing Students Table
+                const failingStudentsTableBody = document.querySelector('#failingStudentsTable tbody');
+                data.failing_students.forEach(student => {
+                    student.failed_assessments.forEach(assessment => {
+                        const row = failingStudentsTableBody.insertRow();
+                        row.insertCell().textContent = student.student_name;
+                        row.insertCell().textContent = assessment.assessment_id;
+                        row.insertCell().textContent = assessment.score;
+                        row.insertCell().textContent = assessment.learning_competency;
+                    });
+                });
+
+                // Populate Class Recommendations List
+                const classRecommendationsList = document.getElementById('classRecommendationsList');
+                data.class_recommendations.forEach(rec => {
+                    const listItem = document.createElement('li');
+                    listItem.className = 'recommendation-item';
+                    listItem.textContent = rec;
+                    classRecommendationsList.appendChild(listItem);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading or parsing data:', error);
+                document.querySelector('.container').innerHTML = `<p>Error loading dashboard data. Please ensure <code>${jsonFileName}</code> exists and is valid. Check the console for more details.</p>`;
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,329 @@
+{
+    "failing_students": [
+        {
+            "student_name": "Andres Bonifacio",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 40,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Antonio Luna",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 52,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Manuel Quezon",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 56,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Ferdinand Marcos",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.5",
+                    "score": 55.56,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                },
+                {
+                    "assessment_id": "Q1.7",
+                    "score": 40,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                },
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 32,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                },
+                {
+                    "assessment_id": "PT1.3",
+                    "score": 0,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                }
+            ]
+        },
+        {
+            "student_name": "Rodrigo Duterte",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.3",
+                    "score": 0,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "application of percentages."
+                },
+                {
+                    "assessment_id": "PT1.4",
+                    "score": 0,
+                    "content_domain": NaN,
+                    "learning_competency": "use of rates."
+                },
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Bong Revilla",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 56,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Coco Martin",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.5",
+                    "score": 55.56,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                },
+                {
+                    "assessment_id": "Q1.2",
+                    "score": 46.67,
+                    "content_domain": "Measurement and Geometry",
+                    "learning_competency": "determination of measures of angles and number of sides of polygons."
+                }
+            ]
+        },
+        {
+            "student_name": "Daniel Padilla",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 32,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Vic Sotto",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 36,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Vhong Navarro",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Sofia Reyes",
+            "failed_assessments": [
+                {
+                    "assessment_id": "LT1",
+                    "score": 57.5,
+                    "content_domain": "Q1 topics",
+                    "learning_competency": "Q1 topics"
+                },
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 52,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Isabella Garcia",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 52,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Andrea Perez",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Cassandra Fernandez",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 40,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Chloe Aquino",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 56,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Hannah Salazar",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 24,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Iris Lopez",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 36,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Katrina Suarez",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 32,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Lara Torres",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 48,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Nadine Santiago",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 52,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                },
+                {
+                    "assessment_id": "Q1.6",
+                    "score": 44.44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                }
+            ]
+        },
+        {
+            "student_name": "Olivia Santos",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.6",
+                    "score": 44.44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "use of rates."
+                }
+            ]
+        },
+        {
+            "student_name": "Patricia Cruz",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Tiffany Yu",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        },
+        {
+            "student_name": "Wendy Soriano",
+            "failed_assessments": [
+                {
+                    "assessment_id": "Q1.8",
+                    "score": 44,
+                    "content_domain": "Number and Algebra",
+                    "learning_competency": "rational numbers."
+                }
+            ]
+        }
+    ],
+    "competency_performance": {
+        "draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor.": 100.0,
+        "determination of measures of angles and number of sides of polygons.": 99.04,
+        "application of percentages.": 99.36,
+        "use of rates.": 97.31,
+        "rational numbers.": 78.85,
+        "Q1 topics": 98.08
+    },
+    "class_recommendations": [
+        "REVIEW SUGGESTED: While the pass rate for 'rational numbers.' is 78.85%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial.",
+        "REVIEW SUGGESTED: While the pass rate for 'use of rates.' is 97.31%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial.",
+        "REVIEW SUGGESTED: While the pass rate for 'Q1 topics' is 98.08%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial."
+    ]
+}

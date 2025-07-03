@@ -1,0 +1,285 @@
+Remediation Plan - 2025-07-03
+==============================
+
+Individual Remediation Plans
+----------------------------------------
+
+Student: Andres Bonifacio
+  - Failed Assessment: Q1.8 (Score: 40.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Antonio Luna
+  - Failed Assessment: Q1.8 (Score: 52.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Manuel Quezon
+  - Failed Assessment: Q1.8 (Score: 56.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Ferdinand Marcos
+  - Failed Assessment: Q1.5 (Score: 55.56)
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to Q1.5.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.7 (Score: 40.00)
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to Q1.7.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.8 (Score: 32.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: PT1.3 (Score: 0.00) - Note: Student may have missed this assessment.
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to PT1.3.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Rodrigo Duterte
+  - Failed Assessment: PT1.4 (Score: 0.00) - Note: Student may have missed this assessment.
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to PT1.4.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.3 (Score: 0.00) - Note: Student may have missed this assessment.
+    - Competency: application of percentages.
+    - Recommended Program: Focus on application of percentages..
+    - Specific Task: Review concepts related to Q1.3.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Bong Revilla
+  - Failed Assessment: Q1.8 (Score: 56.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Coco Martin
+  - Failed Assessment: Q1.5 (Score: 55.56)
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to Q1.5.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.2 (Score: 46.67)
+    - Competency: determination of measures of angles and number of sides of polygons.
+    - Recommended Program: Focus on determination of measures of angles and number of sides of polygons..
+    - Specific Task: Review concepts related to Q1.2.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Daniel Padilla
+  - Failed Assessment: Q1.8 (Score: 32.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Vic Sotto
+  - Failed Assessment: Q1.8 (Score: 36.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Vhong Navarro
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Sofia Reyes
+  - Failed Assessment: Q1.8 (Score: 52.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: LT1 (Score: 57.50)
+    - Competency: Q1 topics
+    - Recommended Program: Focus on Q1 topics.
+    - Specific Task: Review concepts related to LT1.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Isabella Garcia
+  - Failed Assessment: Q1.8 (Score: 52.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Andrea Perez
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Cassandra Fernandez
+  - Failed Assessment: Q1.8 (Score: 40.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Chloe Aquino
+  - Failed Assessment: Q1.8 (Score: 56.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Hannah Salazar
+  - Failed Assessment: Q1.8 (Score: 24.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Iris Lopez
+  - Failed Assessment: Q1.8 (Score: 36.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Katrina Suarez
+  - Failed Assessment: Q1.8 (Score: 32.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Lara Torres
+  - Failed Assessment: Q1.8 (Score: 48.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Nadine Santiago
+  - Failed Assessment: Q1.8 (Score: 52.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+  - Failed Assessment: Q1.6 (Score: 44.44)
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to Q1.6.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Olivia Santos
+  - Failed Assessment: Q1.6 (Score: 44.44)
+    - Competency: use of rates.
+    - Recommended Program: Focus on use of rates..
+    - Specific Task: Review concepts related to Q1.6.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Patricia Cruz
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Tiffany Yu
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+Student: Wendy Soriano
+  - Failed Assessment: Q1.8 (Score: 44.00)
+    - Competency: rational numbers.
+    - Recommended Program: Focus on rational numbers..
+    - Specific Task: Review concepts related to Q1.8.
+    - Suggestion: Provide one-on-one tutoring and additional practice exercises.
+
+==============================
+
+Remediation Groups based on Learning Competency
+----------------------------------------
+
+Learning Competency: rational numbers.
+  Students needing support:
+    - Antonio Luna
+    - Lara Torres
+    - Manuel Quezon
+    - Sofia Reyes
+    - Patricia Cruz
+    - Bong Revilla
+    - Wendy Soriano
+    - Hannah Salazar
+    - Vic Sotto
+    - Vhong Navarro
+    - Chloe Aquino
+    - Tiffany Yu
+    - Nadine Santiago
+    - Andres Bonifacio
+    - Isabella Garcia
+    - Iris Lopez
+    - Ferdinand Marcos
+    - Rodrigo Duterte
+    - Katrina Suarez
+    - Daniel Padilla
+    - Cassandra Fernandez
+    - Andrea Perez
+
+Learning Competency: use of rates.
+  Students needing support:
+    - Ferdinand Marcos
+    - Rodrigo Duterte
+    - Nadine Santiago
+    - Coco Martin
+    - Olivia Santos
+
+Learning Competency: application of percentages.
+  Students needing support:
+    - Rodrigo Duterte
+
+Learning Competency: determination of measures of angles and number of sides of polygons.
+  Students needing support:
+    - Coco Martin
+
+Learning Competency: Q1 topics
+  Students needing support:
+    - Sofia Reyes
+
+==============================
+
+Class Performance Analysis and Recommendations
+----------------------------------------
+This section analyzes the overall class performance for each learning competency.
+
+Performance by Learning Competency (sorted by pass rate):
+- rational numbers.: 78.85% pass rate
+- use of rates.: 97.31% pass rate
+- Q1 topics: 98.08% pass rate
+- determination of measures of angles and number of sides of polygons.: 99.04% pass rate
+- application of percentages.: 99.36% pass rate
+- draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor.: 100.00% pass rate
+
+Recommendations:
+
+- REVIEW SUGGESTED: While the pass rate for 'rational numbers.' is 78.85%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial.
+
+- REVIEW SUGGESTED: While the pass rate for 'use of rates.' is 97.31%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial.
+
+- REVIEW SUGGESTED: While the pass rate for 'Q1 topics' is 98.08%, a number of students still require support. A quick review or a peer-tutoring session could be beneficial.
